@@ -16,7 +16,7 @@ Enter the file name ('FileCSV'):
 file = main.RunImport('FileCSV')
 ```
 
-*Note*: no directory and extension :relieved:
+*Note*: no directory and extension.
 
 #### Export file
 
@@ -28,8 +28,8 @@ tableExample = [['Nome', 'Idade', 'Nascimento'],['Jallysson', 25, 1992]]
 main.RunExport(tableExample, 'FileCSV')
 ```
 
-*Note*: no directory and extension :relieved:
+*Note*: no directory and extension
 
 ### Last
 
-Run Run.py file :coffee:
+Run Run.py file :relieved::coffee:
