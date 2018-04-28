@@ -1,6 +1,6 @@
 # IE
 
-:full_moon_with_face: Import and Export csv files
+:file_folder: Import and Export csv files
 
 ### First
 
